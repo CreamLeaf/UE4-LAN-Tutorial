@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-NetworkingTest-0222.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Owner\Documents\Unreal Projects\NetworkingTest\Intermediate\Build\Win64\NetworkingTestEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Owner\Documents\Unreal Projects\NetworkingTest\Intermediate\Build\Win64\UE4Editor\Development\NetworkingTest\StaticRefs.cpp.obj"
+"C:\Users\Owner\Documents\Unreal Projects\NetworkingTest\Intermediate\Build\Win64\UE4Editor\Development\NetworkingTest\NetworkingTest.cpp.obj"
+"C:\Users\Owner\Documents\Unreal Projects\NetworkingTest\Intermediate\Build\Win64\UE4Editor\Development\NetworkingTest\NetworkingTest.init.gen.cpp.obj"
+"C:\Users\Owner\Documents\Unreal Projects\NetworkingTest\Intermediate\Build\Win64\UE4Editor\Development\NetworkingTest\StaticRefs.gen.cpp.obj"
+"C:\Users\Owner\Documents\Unreal Projects\NetworkingTest\Intermediate\Build\Win64\UE4Editor\Development\NetworkingTest\Default.rc2.res"
+/OUT:"C:\Users\Owner\Documents\Unreal Projects\NetworkingTest\Intermediate\Build\Win64\UE4Editor\Development\NetworkingTest\UE4Editor-NetworkingTest-0222.lib"
+/INCLUDE:IMPLEMENT_MODULE_NetworkingTest

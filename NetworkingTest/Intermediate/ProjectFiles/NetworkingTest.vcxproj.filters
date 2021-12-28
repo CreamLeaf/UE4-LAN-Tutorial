@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\NetworkingTest.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{582CD9BB-DE0E-4F39-8AE4-19D67E45D1A3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\NetworkingTest.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\NetworkingTestEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{808C8851-9306-418D-8419-E6EE02B37747}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\NetworkingTest">
+      <UniqueIdentifier>{0644979D-487E-46DF-A2F9-BEF2CA74843A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\NetworkingTest\NetworkingTest.Build.cs">
+      <Filter>Source\NetworkingTest</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\NetworkingTest\NetworkingTest.cpp">
+      <Filter>Source\NetworkingTest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\NetworkingTest\NetworkingTest.h">
+      <Filter>Source\NetworkingTest</Filter>
+    </ClInclude>
+    <Filter Include="Source\NetworkingTest\Private">
+      <UniqueIdentifier>{66A878A9-716A-429C-B15E-C02035ECBE8A}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\NetworkingTest\Private\StaticRefs.cpp">
+      <Filter>Source\NetworkingTest\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\NetworkingTest\Public">
+      <UniqueIdentifier>{92B17AEA-6B18-4D73-B872-BF31BAB45D87}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\NetworkingTest\Public\StaticRefs.h">
+      <Filter>Source\NetworkingTest\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

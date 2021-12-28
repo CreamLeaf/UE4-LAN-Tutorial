@@ -1,0 +1,3 @@
+C:\Users\Owner\Documents\Unreal Projects\NetworkingTest\Intermediate\Build\Win64\UE4Editor\Development\NetworkingTest\Definitions.NetworkingTest.h
+C:\Users\Owner\Documents\Unreal Projects\NetworkingTest\Source\NetworkingTest\Public\StaticRefs.h
+C:\Users\Owner\Documents\Unreal Projects\NetworkingTest\Intermediate\Build\Win64\UE4Editor\Inc\NetworkingTest\StaticRefs.generated.h

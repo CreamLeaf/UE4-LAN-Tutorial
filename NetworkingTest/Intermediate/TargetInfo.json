@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "NetworkingTest",
+			"Path": "C:\\Users\\Owner\\Documents\\Unreal Projects\\NetworkingTest\\Source\\NetworkingTest.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "NetworkingTestEditor",
+			"Path": "C:\\Users\\Owner\\Documents\\Unreal Projects\\NetworkingTest\\Source\\NetworkingTestEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

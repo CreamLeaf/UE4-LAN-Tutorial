@@ -1,0 +1,5 @@
+C:\Users\Owner\Documents\Unreal Projects\NetworkingTest\Intermediate\Build\Win64\UE4Editor\Development\NetworkingTest\Definitions.NetworkingTest.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\Owner\Documents\Unreal Projects\NetworkingTest\Source\NetworkingTest/Public/StaticRefs.h
+C:\Users\Owner\Documents\Unreal Projects\NetworkingTest\Intermediate\Build\Win64\UE4Editor\Inc\NetworkingTest\StaticRefs.generated.h
